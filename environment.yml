@@ -10,7 +10,7 @@ dependencies:
   - pytorch>=1.12.1
   - torchvision
   - numpy
-  - timm==0.4.12
+  - timm
   - jupyter
   - pip:
     - pillow
